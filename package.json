@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.6.0",
+    "croxydb": "^0.0.26",
+    "discord.js": "^14.25.1",
+    "node-fetch": "^2.7.0"
+  }
+}

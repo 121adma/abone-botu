@@ -1,0 +1,8 @@
+{
+    "token": "Bot Token",
+    "api_key": "deprem.cc aldımız api key",
+    "yetkili_rol_id": "Rolıd", 
+      "trigger_server_id": "/ban Komudunun Kulanılacağı Sunucu ıd  örn (gölgecode)", 
+    "target_server_id": "+banlanılan sunucu ıd(gölgecode altyapı)"
+
+}
